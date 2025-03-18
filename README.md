@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm **Kim Nhat Truong Huy**, also known as **huyya2017**, a college student on the way learn to become a **CyberSecurity Analyst**
 <!--
 **huyya2017/huyya2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
